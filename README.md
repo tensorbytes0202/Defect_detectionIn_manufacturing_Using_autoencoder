@@ -1,0 +1,1 @@
+# Defect_detectionIn_manufacturing_Using_autoencoder
